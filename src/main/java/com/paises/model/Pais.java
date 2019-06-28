@@ -1,11 +1,11 @@
 package com.paises.model;
 
-import lombok.Data;
+///////////////import lombok.Data;
 
-@Data
+//////////////@Data
 public class Pais
 {
-	private String name;
-	private String capital;
-	private String region;
+	public String name;
+	public String capital;
+	public String region;
 }

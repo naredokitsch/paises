@@ -1,4 +1,4 @@
-package com.paises.service;
+package com.paises.integration;
 
 import java.util.List;
 

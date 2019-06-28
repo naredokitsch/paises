@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.paises.model.Pais;
-import com.paises.service.CountriesService;
+import com.paises.integration.CountriesService;
 
 @RestController
 public class Controller
